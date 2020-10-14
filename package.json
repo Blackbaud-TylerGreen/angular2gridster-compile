@@ -1,0 +1,42 @@
+{
+  "name": "angular2gridster",
+  "peerDependencies": {
+    "@angular/common": "^9.0.4",
+    "@angular/core": "^9.0.4",
+    "tslib": "^1.10.0"
+  },
+  "main": "bundles/angular2gridster.umd.js",
+  "module": "fesm5/angular2gridster.js",
+  "es2015": "fesm2015/angular2gridster.js",
+  "esm5": "esm5/angular2gridster.js",
+  "esm2015": "esm2015/angular2gridster.js",
+  "fesm5": "fesm5/angular2gridster.js",
+  "fesm2015": "fesm2015/angular2gridster.js",
+  "typings": "angular2gridster.d.ts",
+  "metadata": "angular2gridster.metadata.json",
+  "sideEffects": false,
+  "version": "9.0.1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/swiety85/angular2gridster.git"
+  },
+  "author": {
+    "name": "Damian Wajdlich",
+    "email": "swiety85@gmail.com"
+  },
+  "keywords": [
+    "gridster",
+    "grid",
+    "gridLayout",
+    "angular",
+    "dashboard",
+    "ngx",
+    "drag&drop",
+    "widgets"
+  ],
+  "bugs": {
+    "url": "https://github.com/swiety85/angular2gridster/issues"
+  },
+  "homepage": "https://github.com/swiety85/angular2gridster#readme"
+}
